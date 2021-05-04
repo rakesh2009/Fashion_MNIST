@@ -15,10 +15,27 @@ We have to classify the images on test data after training the model using the t
 
 Tasks perfromed :
 
-1) Read the dataset & EDA analysis on the dataset
+1) Reading the dataset & EDA analysis on the dataset
 
-2) building the sequential model
+2) building the sequential model on train data
 
 3) evaluation of model on test data based on accuracy metrics
 
-4) checking the predicted labels are matching the original test images using plot
+4) checking the predicted labels which are matching with the original test images using plot
+
+
+Dependencies:
+
+Python 3+,
+jupyter notebbook,
+Pandas,
+Numpy,
+Tensorflow,
+Keras,
+Matplotlib
+
+Purpose:
+
+The purpose of this project is to gain insights in 
+a) Pratical implementation of deep learning using Tensorflow and keras
+b) classifying the different fashion models using ML algorithms
