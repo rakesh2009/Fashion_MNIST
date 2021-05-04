@@ -3,7 +3,7 @@ Classifying the fashion models using deep learning
 
 Problem statement:
 
-Zalando's article images with a dimension of 28x28 which are grayscales.The images are associated with 10 different classes. Our aim is to classify the images.
+Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. Our aim is to classify the images
 
 Description :
 
