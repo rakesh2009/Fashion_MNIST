@@ -17,11 +17,11 @@ Tasks perfromed :
 
 1) Reading the dataset & EDA analysis on the dataset
 
-2) building the sequential model on train data
+2) building the sequential model on train data using deep neural network
 
 3) evaluation of model on test data based on accuracy metrics
 
-4) checking the predicted labels which are matching with the original test images using plot
+4) checking the predicted labels which are matching with the original test images using plots
 
 
 Dependencies:
@@ -36,6 +36,8 @@ Matplotlib
 
 Purpose:
 
-The purpose of this project is to gain insights in 
-a) Pratical implementation of deep learning using Tensorflow and keras
+The purpose of this project is to gain insights & help others in 
+
+a) Pratical implementation of deep learning using Tensorflow and keras in Fashion-MNIST dataset
+
 b) classifying the different fashion models using ML algorithms
